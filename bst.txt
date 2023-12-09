@@ -1,0 +1,8 @@
+[7,5,1,8,3,6,0,9,4,2] dizisinin Binary-Search-Tree aşamaları:
+
+Root: 7 (ilk eklenir)
+Root ikiye ayrılır = 5 ve 8
+5 1 ve 6 şeklinde ayrılır.
+6 3 ve 4 şeklinde ayrılır.
+3 0 şeklinde ayrılır.
+8 ise 9 şeklinde ayrılır.
